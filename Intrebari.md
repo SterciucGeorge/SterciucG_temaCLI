@@ -1,7 +1,8 @@
 # Raspuns la intrebari
 
 - Ce este un viewport?
-  Viewport-ul este fereastra unde specificam ca dorim sa se intample randarea.
+  
+Viewport-ul este fereastra unde se intample randarea.
 - Ce reprezintă conceptul de frames per seconds din punctul de vedere al bibliotecii OpenGL?
   Fames per second reprezinta numarul de imagini ce vor fi afisate per secunda pentru a crea iluzia de miscare, mai multe frame-uri rezulta intr-o fluiditate crescuta.
 - Când este rulată metoda OnUpdateFrame()?
