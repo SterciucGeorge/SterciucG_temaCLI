@@ -1,6 +1,7 @@
-# Raspuns intrebari
-Acesta este un paragraf de text.
+# Raspuns la intrebari
 
-## Subtitlu
-- Punct 1
-- Punct 2
+- Ce este un viewport?
+- 
+- 
+- 
+- 
