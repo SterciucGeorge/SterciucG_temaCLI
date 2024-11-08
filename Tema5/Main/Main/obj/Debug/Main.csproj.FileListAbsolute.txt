@@ -1,0 +1,24 @@
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\bin\Debug\Main.exe.config
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\bin\Debug\Main.exe
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\bin\Debug\Main.pdb
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\bin\Debug\OpenTK.dll
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\bin\Debug\OpenTK.GLControl.dll
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\bin\Debug\OpenTK.xml
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\bin\Debug\OpenTK.GLControl.xml
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\obj\Debug\Main.exe
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 06\Laborator_06\Main\Main\obj\Debug\Main.pdb
+C:\Users\neaan\source\repos\SterciucG_temaCLI\Tema5\Main\Main\bin\Debug\Main.exe.config
+C:\Users\neaan\source\repos\SterciucG_temaCLI\Tema5\Main\Main\bin\Debug\Main.exe
+C:\Users\neaan\source\repos\SterciucG_temaCLI\Tema5\Main\Main\bin\Debug\Main.pdb
+C:\Users\neaan\source\repos\SterciucG_temaCLI\Tema5\Main\Main\bin\Debug\OpenTK.dll
+C:\Users\neaan\source\repos\SterciucG_temaCLI\Tema5\Main\Main\bin\Debug\OpenTK.GLControl.dll
+C:\Users\neaan\source\repos\SterciucG_temaCLI\Tema5\Main\Main\bin\Debug\OpenTK.xml
+C:\Users\neaan\source\repos\SterciucG_temaCLI\Tema5\Main\Main\bin\Debug\OpenTK.GLControl.xml
+C:\Users\neaan\source\repos\SterciucG_temaCLI\Tema5\Main\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\neaan\source\repos\SterciucG_temaCLI\Tema5\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\neaan\source\repos\SterciucG_temaCLI\Tema5\Main\Main\obj\Debug\Main.csproj.Up2Date
+C:\Users\neaan\source\repos\SterciucG_temaCLI\Tema5\Main\Main\obj\Debug\Main.exe
+C:\Users\neaan\source\repos\SterciucG_temaCLI\Tema5\Main\Main\obj\Debug\Main.pdb
