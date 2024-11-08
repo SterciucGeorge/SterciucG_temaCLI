@@ -1,0 +1,11 @@
+D:\Buncha shit\Shit that was supposed to be on desktop\Facultate\An 3\ECG\Tema2 - Copy\bin\Debug\Tema2.exe.config
+D:\Buncha shit\Shit that was supposed to be on desktop\Facultate\An 3\ECG\Tema2 - Copy\bin\Debug\Tema2.exe
+D:\Buncha shit\Shit that was supposed to be on desktop\Facultate\An 3\ECG\Tema2 - Copy\bin\Debug\Tema2.pdb
+D:\Buncha shit\Shit that was supposed to be on desktop\Facultate\An 3\ECG\Tema2 - Copy\bin\Debug\OpenTK.dll
+D:\Buncha shit\Shit that was supposed to be on desktop\Facultate\An 3\ECG\Tema2 - Copy\bin\Debug\OpenTK.pdb
+D:\Buncha shit\Shit that was supposed to be on desktop\Facultate\An 3\ECG\Tema2 - Copy\bin\Debug\OpenTK.xml
+D:\Buncha shit\Shit that was supposed to be on desktop\Facultate\An 3\ECG\Tema2 - Copy\obj\Debug\Tema 3.csproj.AssemblyReference.cache
+D:\Buncha shit\Shit that was supposed to be on desktop\Facultate\An 3\ECG\Tema2 - Copy\obj\Debug\Tema 3.csproj.CoreCompileInputs.cache
+D:\Buncha shit\Shit that was supposed to be on desktop\Facultate\An 3\ECG\Tema2 - Copy\obj\Debug\Tema 3.csproj.Up2Date
+D:\Buncha shit\Shit that was supposed to be on desktop\Facultate\An 3\ECG\Tema2 - Copy\obj\Debug\Tema2.exe
+D:\Buncha shit\Shit that was supposed to be on desktop\Facultate\An 3\ECG\Tema2 - Copy\obj\Debug\Tema2.pdb

@@ -1,0 +1,55 @@
+﻿///Ce este anti-aliasing? Prezentați această tehnică pe scurt.
+
+Anti-aliasing este o tehnica ce netezeste marginile obiectelor 3D, reducand aspectul "dintat"
+al acestora. Anti-aliasing-ul adauga pixeli de culori mixate intre obiect si fundal, 
+astfel incat marginile sa para mai uniforme si naturale.
+
+///Care este efectul rulării comenzii GL.LineWidth(float)? Dar pentru
+///GL.PointSize(float)? Funcționează în interiorul unei zone GL.Begin()?
+
+GL.LineWidth(float) seteaza grosimea liniilor desenate folosind o valoare float.
+GL.PointSize(float) seteaza grosimea punctelor desenate folosind o valoare float.
+Ambele comenzi functioneaza intr-o zona GL.Begin().
+
+///Care este efectul utilizării directivei LineLoop atunci când desenate segmente de dreaptă
+///multiple în OpenGL?
+
+GL.LineLoop in OpenGL deseneaza o serie de linii intre punctele specificate iar la final ultima
+linie se conecteaza la primul punct.
+
+///Care este efectul utilizării directivei LineStrip atunci când
+///desenate segmente de dreaptă multiple în OpenGL?
+
+Este acelasi concept ca si la GL.LineLoop insa ultima linie nu se conecteaza la primul punct la sfarsit.
+
+///Care este efectul utilizării directivei TriangleFan atunci când
+///desenate segmente de dreaptă multiple în OpenGL?
+
+TriangleFan este folosita pentru a desena o forma inchisa creata din multiple triunghiuri
+care au un punct comun si alte puncte in jurul acestuia. (precum un evantai)
+
+///Care este efectul utilizării directivei TriangleStrip atunci când
+desenate segmente de dreaptă multiple în OpenGL?
+
+TriangleStrip este folosit pentru a crea un triunghi cu primele 3 puncte date, iar apoi pentru fiecare
+punct nou introdus se formeaza un nou triunghi folosing ultimele 2 puncte si noul punct.
+
+///De ce este importantă utilizarea de culori diferite (în gradient sau
+culori selectate per suprafață) în desenarea obiectelor 3D? Care este
+avantajul?
+
+Daca culoarea unei piramide ar fi aceeasi pe fiecare latura, privita direct de sus ar arata ca si un
+patrat asadar folosirea de diferite culori sau gradiente este importanta pentru a distinge obiectul 3D
+creat.
+
+///Ce reprezintă un gradient de culoare? Cum se obține acesta în
+OpenGL?
+
+Un gradient este trecerea progresiva de la o culoare la alta cu granita dintre culori fiind combinata
+pentru o tranzitie vizual placuta. Pentru a obtine un gradient in OpenGL este suficient doar sa folosim
+diferite culori pentru fiecare varf al formei dorite iar un gradient va fi creat automat.
+
+///Ce efect are utilizarea unei culori diferite pentru fiecare vertex
+atunci când desenați o linie sau un triunghi în modul strip?
+
+Apare un gradient intre fiecare culoare diferita.
